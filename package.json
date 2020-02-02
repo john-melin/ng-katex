@@ -70,7 +70,7 @@
     "rollup-plugin-typescript2": "0.25.3",
     "rxjs-compat": "6.5.4",
     "rxjs": "6.5.4",
-    "typescript": "2.9.2",
+    "typescript": "3.7.5",
     "zone.js": "0.10.2"
   }
 }
